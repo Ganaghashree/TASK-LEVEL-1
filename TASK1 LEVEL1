@@ -1,7 +1,7 @@
- <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
+<!DOCTYPE html>
+<!-- saved from url=(0030)file:///C:/COGNIFYZ/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
   <title>My Website</title>
   <style>
     body {
@@ -63,19 +63,20 @@
 
   <!-- Navigation Bar -->
   <nav>
-    <a href="file:///C:/Users/Admin_/Desktop/Untitled-1.html">Home</a>
-    <a href="file:///C:/Users/Admin_/Desktop/2.html">About</a>
-    <a href="file:///C:/Users/Admin_/Desktop/3.html?">Services</a>
+    <a href="file:///C:/COGNIFYZ/index.html">Home</a>
+    <a href="file:///C:/COGNIFYZ/about.html">About</a>
+    <a href="file:///C:/COGNIFYZ/services.html">Services</a>
   </nav>
 
   <!-- Home Section -->
   <h1>Welcome to Our Website</h1>
   <p>This is the home page. Explore our content and services below.</p>
-  <img src="gg.jpg" alt="Intro Image">
+  <img src="C:\COGNIFYZ\images\img1.jpg"alt="Intro Image">
   <form>
     <input type="text" placeholder="Enter your name">
     <input type="submit" value="Submit">
   </form>
 
-</body>
-</html>
+
+
+</body></html>
